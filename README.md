@@ -13,4 +13,4 @@ Open source arduino-based nitrox analyzer
 // Provided "as is". Use at your own risk
 //////////////////////////////////////////////////////////////////////////////
 
-Bill of Material and full article available here: http://www.e-ocean.fr/index.php?option=com_content&task=view&id=127&Itemid=1
+Bill of Material and full article available here (in French): http://www.e-ocean.fr/index.php?option=com_content&task=view&id=127&Itemid=1
